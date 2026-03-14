@@ -119,9 +119,9 @@ On the first run, the backend automatically creates the tables and populates the
 ✅ Inserted 13 default colleges.
 ✅ Super admin created: username='superadmin', password='admin123'
 ✅ Created 13 college admins (default password: 'college@123')
-✅ Inserted X sample placement drives.
-✅ Inserted Y sample reviews.
-✅ Inserted Z sample resources.
+✅ Inserted some sample placement drives.
+✅ Inserted some sample reviews.
+✅ Inserted some sample resources.
 ```
 
 If you ever need to reset the data, you can truncate the tables (in the correct order) and restart the application.
