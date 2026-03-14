@@ -1,0 +1,54 @@
+# Compiled files
+target/
+*.class
+
+# Maven wrapper and output
+.mvn/
+mvnw
+mvnw.cmd
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+.sts4-cache
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
+
+# Application properties (if you have sensitive data)
+# Keep application.properties if it contains secrets; use application-example.properties for template
+application.properties
+application-dev.properties
+application-prod.properties
+!application-example.properties
+
+# H2 database files (if you ever use H2)
+*.h2.db
+*.db
+*.mv.db
