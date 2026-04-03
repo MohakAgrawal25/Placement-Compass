@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name – [your.email@example.com](mailto:your.email@example.com)
+Your Name – [mohakagrawal10@gmail.com](mailto:mohakagrawal10@gmail.com)
 
 Project Link: [https://github.com/yourusername/placement-compass](https://github.com/yourusername/placement-compass)
 
